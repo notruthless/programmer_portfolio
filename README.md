@@ -1,4 +1,4 @@
 programmer_portfolio
 ====================
 
-My portfolio - http://ruth-helfinstein-folio.herokuapp.com/i
+My portfolio - http://ruth-helfinstein-folio.herokuapp.com/
