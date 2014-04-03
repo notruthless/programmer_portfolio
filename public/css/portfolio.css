@@ -1,3 +1,10 @@
+footer {
+    font-size: x-small;
+    font-style: italic;
+    float: right;
+}
+
+
 .pictures_here img {
   border: solid 2px black;
   background-color: white;
@@ -45,3 +52,4 @@ div.small_curved {
 .shadow {
   box-shadow: 3px 3px 4px #000;
 }
+
